@@ -1,4 +1,6 @@
 # Demo
+[Online demo](https://nguyenkhois.github.io/react-pretence-router-demo/dist/) -or- [Download on npm](https://www.npmjs.com/package/react-pretence-router)
+
 Tested on:
 * Windows 10 (version 1803)
 * MacOS High Sierra (version 10.13)
