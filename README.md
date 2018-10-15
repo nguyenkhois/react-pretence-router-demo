@@ -7,7 +7,7 @@
     * Installation React: `$ npm i --save react react-dom`
     * Installation Redux: `$ npm i --save redux react-redux`
     * Installation react-pretence-router: `$ npm i -D react-pretence-router`
-* Using include property in Webpack config for Babel loader (view file `/webpack.common.js` in this example) and do not use exclude property.
+* Using `include` property in Webpack config for Babel loader (view file `/webpack.common.js` in this example) and do not use exclude property.
 ````
 include: [
     path.resolve(__dirname, "src"),
